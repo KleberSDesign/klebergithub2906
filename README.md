@@ -9,10 +9,10 @@
 
 ### Instagram
 
-[![Readme Card]((https://www.instagram.com/kdesignag/))
+[![KDesignAG](https://www.instagram.com/kdesignag/)
 
 
 ### LinkedIn
 
-[![Perfil]((https://www.linkedin.com/in/klebersilva-design/))
+[![Perfil](https://www.linkedin.com/in/klebersilva-design/)
 
