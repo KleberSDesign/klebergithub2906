@@ -5,7 +5,7 @@
 
 ### Portfólio
 
-[![Behance](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats](https://www.behance.net/kleberps))
+[![Behance]((https://www.behance.net/kleberps))
 
 ### Instagram
 
