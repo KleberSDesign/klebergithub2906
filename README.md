@@ -9,10 +9,10 @@
 
 ### Instagram
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats](https://www.instagram.com/kdesignag/))
+[![Readme Card]((https://www.instagram.com/kdesignag/))
 
 
 ### LinkedIn
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats](https://www.linkedin.com/in/klebersilva-design/))
+[![Perfil]((https://www.linkedin.com/in/klebersilva-design/))
 
